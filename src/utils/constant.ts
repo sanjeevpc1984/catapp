@@ -1,0 +1,1 @@
+export const CAT_API_URL = "http://localhost:10040/v1";
